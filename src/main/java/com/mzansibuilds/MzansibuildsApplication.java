@@ -1,5 +1,4 @@
-package com.mzansibuilds.mzansibuilds;
-
+package com.mzansibuilds;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
