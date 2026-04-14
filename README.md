@@ -24,10 +24,10 @@ A modern platform for developers to store, manage, and track their software proj
 **Mzansi Builds** is a comprehensive project management platform designed specifically for developers. It provides a centralized location to store, organize, and monitor all your software development projects in one place. With a clean, user-friendly interface powered by Vaadin, and robust backend infrastructure built on Spring Boot, Mzansi Builds streamlines project tracking and management.
 
 ### Key Highlights
-- 📱 **Responsive Web Interface**: Built with Vaadin for a seamless user experience
-- 🔐 **Secure**: Built-in authentication and authorization
-- 🗄️ **Data Persistence**: Reliable database integration
-- 🚀 **Scalable**: Modular architecture ready for expansion
+-  **Responsive Web Interface**: Built with Vaadin for a seamless user experience
+-  **Secure**: Built-in authentication and authorization
+-  **Data Persistence**: Reliable database integration
+-  **Scalable**: Modular architecture ready for expansion
 
 ---
 
